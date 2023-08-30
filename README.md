@@ -43,7 +43,8 @@ Instrucciones
 
 Resultados
 
-Encontrarás los resultados del análisis de datos y las visualizaciones en el cuaderno de Jupyter. Gráficos, diagramas y otras representaciones visuales te ayudarán a comprender los patrones y tendencias en los datos de Gmail.
+Encontrarás los resultados del análisis de datos y las visualizaciones en el cuaderno de Jupyter. Gráficos, diagramas y otras representaciones visuales te ayudarán a comprender los patrones y tendencias en los datos de Gmail.![download](https://github.com/Oexcision/Data-Analysis-with-Python/assets/75105496/144eceee-3b6d-4a68-8a0f-9c5fabf83f8f)
+
 
 Contribuciones
 
